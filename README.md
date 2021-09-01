@@ -19,7 +19,7 @@
 ## Developer
 >Abdulrahman Haaji | ENG-CJ
 ## Contact
-> Gmail: Abdulrahmandev10@gmail.com
+> Email: Abdulrahmandev10@gmail.com
 > | Mobile: 252683533247
 
 
