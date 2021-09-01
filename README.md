@@ -1,6 +1,9 @@
 # Billing-Software
  This is bill software desktop app that intended for business
 
+## thumbnail
+[](Images/thumb.jpg)
+
 ## Language
 >Python
 >| 100%
