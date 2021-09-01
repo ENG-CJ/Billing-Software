@@ -1,7 +1,7 @@
 # Billing-Software
  This is bill software desktop app that intended for business
 
-## thumbnail
+## Bill Area
 ![](Images/thumb.jpg)
 
 ## Language
