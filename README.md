@@ -2,7 +2,7 @@
  This is bill software desktop app that intended for business
 
 ## thumbnail
-[](Images/thumb.jpg)
+![](Images/thumb.jpg)
 
 ## Language
 >Python
