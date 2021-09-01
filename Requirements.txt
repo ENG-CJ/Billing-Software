@@ -1,0 +1,28 @@
+
+*Requirements
+---------------
+installations
+
+>Tkinter
+>ttk
+>PIL IMAGE
+>tix.Balloons
+>QT5
+---------------------------------
+
+Example Of Installing
+using pip package
+
+>pip install future (for tkinter)
+> pip install pillow (for PIL IMAGE)
+> pip install Pyqt5
+
+--------------------------
+if there is an error you can contact me
+
+Email: Abdulrahmandev10@gmail.com
+Mobile: +252683533247
+----------------------------------------
+
+Dev: ENG-CJ
+[]
